@@ -1,7 +1,7 @@
 ## ECE1512-2023F-ProjectRepo-Xiaohu.Yang-Yixin.Feng
 
 #To run Task 1
-<br />#run the Task1.ipynb in google colab
+<br />#run the [Task1.ipynb](https://github.com/Steven032/ECE1512-2023F-ProjectRepo-Xiaohu.Yang-Yixin.Feng/blob/main/Task1.ipynb) in google colab
 
 
 #To run Task 2
